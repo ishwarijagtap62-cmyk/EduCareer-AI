@@ -4,6 +4,14 @@
 
 > Learn smarter. Solve problems faster. Build skills. Get placement-ready.
 
+## 🚀 Live Application
+
+Access the deployed EduCareer AI application:
+
+👉 **[Open EduCareer AI](https://edu-career-ai-six.vercel.app/)**
+
+**Frontend:** https://edu-career-ai-six.vercel.app/
+
 ---
 
 ## 🌟 What is EduCareer AI?
