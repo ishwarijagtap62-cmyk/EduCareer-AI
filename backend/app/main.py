@@ -127,7 +127,7 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "http://127.0.0.1:3001",
         "http://127.0.0.1:3002",
-        "https://educareer-ai.vercel.app",
+       "https://edu-career-ai-six.vercel.app",
     ],
     allow_origin_regex=r"http://(localhost|127\.0\.0\.1)(:[0-9]+)?",
     allow_credentials=True,
